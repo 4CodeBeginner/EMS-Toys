@@ -6,7 +6,7 @@
 <body>
 
 <h1>Data Users</h1>
-
+<a href="/users/tambah">tambah user</a>
 <table border="1" cellpadding="10">
     <tr>
         <th>ID</th>
